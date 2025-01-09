@@ -1,0 +1,7 @@
+# Fichiers Unity à ignorer
+Library/
+Logs/
+Temp/
+Obj/
+Build/
+UserSettings/
