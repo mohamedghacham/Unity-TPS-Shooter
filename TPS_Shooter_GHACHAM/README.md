@@ -1,18 +1,13 @@
-Third Person Shooter Demo
+Démo de jeu TPS (Third Person Shooter)
 --------------------------------------------------------
-Unity Project about a third person shooter demo with the basic setup of the mechanics involved in a shooter, such as: aiming system, weapon switching, reloading system, weapons animations, enemy AI, ragdoll physics, damage system and character physics and movement.
+Projet Unity pour une démo de jeu de tir à la troisième personne avec la configuration de base des mécanismes d'un jeu de tir, tels que : système de visée, changement d'arme, système de rechargement, animations des armes, IA des ennemis, physique de ragdoll, système de dégâts, et physique et mouvement du personnage.
 --------------------------------------------------------
-The project has a single scene where we will find different obstacles and the main character with all the settings to play. When running the project you have to choose how many enemies you want in the scene with a maximum of 50 an press play.
-
-The different actions that the player can perform are: equip and unequip a weapon, shoot, reload the weapon, run, jump and aim with the different weapons.
-
-Weapons have different vertical and horizontal recoil properties as well as different animations for each action performed by the player. In addition, each weapon has an added firing effect when hitting static objects, as well as a bullet effect.
-
-Enemies behave as if they were zombies, at the beginning of the scene if they have not seen the player they will move randomly to a randomly close position, if the player enters the vision range of any enemy or the player shoots an enemy, the enemy will chase him around the scene.
-
-When an enemy dies the ragdoll physics are activated, and the player can shoot at them to move them. I hope it was clear, if you have any questions about the project you can contact me to know more about it.
-
+Le projet contient une seule scène où l'on trouve différents obstacles et le personnage principal avec tous les paramètres nécessaires pour jouer. Lorsque vous lancez le projet, vous devez choisir combien d'ennemis vous souhaitez dans la scène, avec un maximum de 50, puis appuyer sur "play".
+Les différentes actions que le joueur peut réaliser sont : équiper et déséquiper une arme, tirer, recharger l'arme, courir, sauter et viser avec les différentes armes.
+Les armes ont différentes propriétés de recul vertical et horizontal ainsi que des animations distinctes pour chaque action réalisée par le joueur. De plus, chaque arme possède un effet de tir ajouté lorsqu'elle touche des objets statiques, ainsi qu'un effet de balle.
+Les ennemis se comportent comme des zombies, au début de la scène, s'ils n'ont pas vu le joueur, ils se déplaceront aléatoirement vers une position proche au hasard. Si le joueur entre dans le champ de vision d'un ennemi ou tire sur un ennemi, celui-ci le poursuivra dans la scène.
+Lorsque qu'un ennemi meurt, la physique de ragdoll est activée, et le joueur peut tirer dessus pour les déplacer. J'espère que cela est clair, si vous avez des questions sur le projet, vous pouvez me contacter pour en savoir plus.
 ----------------------------------
-In the project you will find different useful things like the aiming systems of each weapon, the ragdoll physics, the shooting effects and the diferentes features of aiming and damage. The project also has a .FBX file of a manequi modeled and rigged in blender, as well as its different animations, and also the different weapons used also made in blender.
+Dans le projet, vous trouverez différents éléments utiles tels que les systèmes de visée pour chaque arme, la physique de ragdoll, les effets de tir et les différentes fonctionnalités de visée et de dégâts. Le projet contient également un fichier .FBX d'un mannequin modélisé et riggé dans Blender, ainsi que ses différentes animations, ainsi que les différentes armes utilisées, également créées dans Blender.
 --------------------------------------------------------
 Software: Unity version: 2020.2.1f1 Blender Version: 2.91
